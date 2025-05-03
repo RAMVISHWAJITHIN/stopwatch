@@ -26,14 +26,5 @@ A simple and responsive Stopwatch application built with JavaScript and modern U
 - **State Management:** React useState & useEffect (if applicable)
 - **Design:** Minimal and user-friendly interface
 
-## 📸 Screenshots
 
-*(Add screenshots here if you have them)*
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/stopwatch-app.git
-   cd stopwatch-app
-s
